@@ -1,13 +1,13 @@
-### Malachie 1
+# Malachie 1
 
-#### Contenu
+## Contenu
 
 - Pas un culte de paraitre, mais réel
 - Amour pour Israël
 - Mépris du peuple pour Dieu
 - Plan pour les nations
 
-#### Versets
+## Versets
 
 - v2
 	- Dieu aime son peuple, mais son peuple doute
@@ -72,7 +72,7 @@
 	- Rappel qu'il est un grand roi
 	- les nations craignent le Seigneur.
 
-#### Résumé
+## Résumé
 
 **Amour et fidélité de Dieu**
 
