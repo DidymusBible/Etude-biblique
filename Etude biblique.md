@@ -11,7 +11,7 @@
 
 ## A approfondir
 
-- Esaïe 7:15 images
+- Esaïe 7:15 miel ?
 
 ---
 
